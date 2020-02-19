@@ -28,3 +28,10 @@ app/assets/javascripts/channels/.keep
 app/assets/images/.keep
 app/graphql/mutations/.keep
 app/graphql/types/.keep
+
+/public/packs
+/public/packs-test
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
