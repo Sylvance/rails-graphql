@@ -26,3 +26,5 @@ log/.keep
 app/controllers/concerns/.keep
 app/assets/javascripts/channels/.keep
 app/assets/images/.keep
+app/graphql/mutations/.keep
+app/graphql/types/.keep
